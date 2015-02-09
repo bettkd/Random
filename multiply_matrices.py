@@ -1,6 +1,7 @@
 #! usr/bin/Python
 # Author: Dominic Bett
 # Script: Multiplication of two matrices
+# Feb 9, 2015
 
 class IncompatibilityError(RuntimeError):
    pass
