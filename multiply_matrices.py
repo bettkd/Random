@@ -30,8 +30,8 @@ def main():
 		[4, -2],
 		[5, 0]] #3X2 matrix
 
-	B = [[-3, 2],
-		[-4, 1]] #2X2 matrix
+	B = [[-3, 2, 0],
+		[-4, 1, 1]] #2X2 matrix
 
 	try:
 		AB = multiplymatrix(A, B)

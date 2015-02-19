@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>jQuery.getJSON demo</title>
+  <style>
+  img {
+    height: 100px;
+    float: left;
+  }
+  </style>
+  <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+</head>
+<body>
+ 
+<div id="images"></div>
+ 
+<script>
+(function() {
+  var url = "https://www.googleapis.com/youtube/v3/playlistItems?part=snippet%2CcontentDetails&maxResults=50&playlistId=UUt3SE-Mvs3WwP7UW-PiFdqQ&key=AIzaSyCZT5sXBrdsnZ4RMt5r1w6ITaGrGM23A_E";
+  var title;
+  var videoId;
+  var description;
+  var channelTitle;
+  $.getJSON(url,
+      function(response){
+          title = response.items[0].snippet.title;
+          description = response.items[0].snippet.description;
+          channelTitle = response.items[0].snippet.channelTitle;
+          videoId = response.items[0].snippet.resourceId.videoId;
+
+          document.write(channelTitle + "<hr>");
+          document.write(title + "<hr>");
+          document.write(description + "<hr>");
+          document.write(videoId + "<hr>");
+  });
+})();
+</script>
+ 
+</body>
+</html>

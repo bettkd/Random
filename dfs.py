@@ -9,7 +9,7 @@ discovered = []
 def DFS(G, start, end):
     stack = []
     stack.append(start)
-    n = len(adjLists)
+    n = len(G)
     visited = []
     for i in range(0,n):
         visited.append(False)
@@ -29,7 +29,7 @@ def DFS(G, start, end):
             # but this is only to get the same output as the recursive dfs
             # otherwise, this would not be necessary
             stack_aux = []
-            for w in adjLists[node]:
+            for w in G[node]:
                 if(not visited[w]):
                     stack_aux.append(w)
             while(len(stack_aux)>0):

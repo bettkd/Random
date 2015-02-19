@@ -1,0 +1,1916 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/EohDUluBwGxCL3NIuyzMi4MSDUc\"",
+ "nextPageToken": "CDIQAA",
+ "pageInfo": {
+  "totalResults": 26055,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/7SUYpTL5KlYqM64ceFvKFSFitxA\"",
+   "id": "UU9UT-h19QKfIQIkmjKoNzBHG8mwp4bG1q",
+   "snippet": {
+    "publishedAt": "2015-02-09T18:12:13.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "Murang'a Residents Resort To Eating Wild Fruits As Drought Persists",
+    "description": "Sections of Murang'a have been ravaged by draught forcing the area residents to demand relief supplies from the county government. In some parts of the county residents have been reduced to wild fruit gatherers for food.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/aYsWBhp7Tnc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/aYsWBhp7Tnc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/aYsWBhp7Tnc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 0,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "aYsWBhp7Tnc"
+    }
+   },
+   "contentDetails": {
+    "videoId": "aYsWBhp7Tnc"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/iKHSSQeXLC4Q-Tdj6QgNmarwIXw\"",
+   "id": "UU9UT-h19QKfIlLS6AS98NxsX3kmGiuhJW",
+   "snippet": {
+    "publishedAt": "2015-02-09T18:09:30.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "MPs Give Nkaissery, Police 72-Hour Ultimatum To Unearth Muchai's Killers",
+    "description": "Interior cabinet secretary Joseph Nkaissery now been given a 72-hour ultimatum to unmask the killers of Kabete MP George Muchai, his driver and two body guards, the parliamentary committee on administration and national security has also threatened to take stern action against Nkaissery if the he fail to beat the deadline. The chair of the committee Asman Kamama also accused the officers manning the CCTV control room saying they had slept on the job. And as Hassan Mugambi reports the law makers are now questioning whether the said CCTV cameras actually work.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/IE6Wa1CjIko/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/IE6Wa1CjIko/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/IE6Wa1CjIko/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 1,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "IE6Wa1CjIko"
+    }
+   },
+   "contentDetails": {
+    "videoId": "IE6Wa1CjIko"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/jMs0CeO_Jr-eIrPBLzxHJk3SgBU\"",
+   "id": "UU9UT-h19QKfI3GYtGKKmzKtsvsIML6ZY-",
+   "snippet": {
+    "publishedAt": "2015-02-09T18:02:52.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "Investigative Report Links HSBC To ‘Tax Evasion’ Scam",
+    "description": "Global banking giant Hong kong Shanghai Banking Corporation, HSBC, is reported to have been involved in shadowy deals following an exposé by the consortium of investigative journalists, I.C.I.J. leaked swiss files show that Kenya is among countries with the largest dollar amounts equivalent to 50.8 billion shillings stashed in the more than 1,000 bank accounts overseas which could have enabled some of clients to evade tax. A prominent Kenyan politician is listed as having operated two bank accounts for his business, but he declared them inactive upon enquiry.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ri72Z8gMIks/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ri72Z8gMIks/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ri72Z8gMIks/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 2,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ri72Z8gMIks"
+    }
+   },
+   "contentDetails": {
+    "videoId": "ri72Z8gMIks"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/7QfzECb4TcUTGZcd00ho4yywDAY\"",
+   "id": "UU9UT-h19QKfKRZCOXwwFW90rUZ0kut6BS",
+   "snippet": {
+    "publishedAt": "2015-02-09T17:56:01.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "KNUT Threatens To North Eastern Teachers' Issue To International Labour Centre",
+    "description": "The Kenya National Union Of Teachers KNUT, through its secretary general Wilson Sossion has threatened to take the row over non local teachers from north eastern region to the International Labour Centre, if the Teachers Service Commission takes disciplinary measures against the teachers. the statement comes a day after majority leader Aden Duale asked the Teachers Service Commission to replace the teachers who have will nor have reported by the end of the day Monday. This even as the situation on the ground continues to worsen with students missing lessons due to lack of teachers.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/d1GhuSBGRj8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/d1GhuSBGRj8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/d1GhuSBGRj8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 3,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "d1GhuSBGRj8"
+    }
+   },
+   "contentDetails": {
+    "videoId": "d1GhuSBGRj8"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/rrJID4NLtPm86Pdt41zcXEZa-bA\"",
+   "id": "UU9UT-h19QKfLvuHziKir4mBfXkr_ZUuKR",
+   "snippet": {
+    "publishedAt": "2015-02-09T17:45:22.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "Man Accused Of Impersonating President Kenyatta's PA Arraigned In Court",
+    "description": "A man accused of impersonating President Uhuru Kenyatta's personal assistant, Jomo Gecaga was Monday morning charged before a Nairobi court. David Jomo Muigai who has been charged alongside two other people over a land fraud case, is said to have lied to an officer of the  directorate of criminal investigations department, to stop him from investigating the a 338-million-shilling fraud case.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_AEStYWoF3A/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_AEStYWoF3A/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_AEStYWoF3A/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 4,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "_AEStYWoF3A"
+    }
+   },
+   "contentDetails": {
+    "videoId": "_AEStYWoF3A"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/i4mCgmJjfVvS6AlSl3khx5RHS78\"",
+   "id": "UU9UT-h19QKfIRrDOo3LwYZNt55MOcD16q",
+   "snippet": {
+    "publishedAt": "2015-02-09T17:43:14.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "Parents' Agony As Most Secondary Schools Limit Their Uniform Shopping To 1 City Retail Outlet",
+    "description": "The burden on parents to meet the financial obligations of their secondary school going children seems to have gone a notch higher, if scenes witnessed on Monday at the School uniform outfitters are anything to go by. Parents some from as far as Bomet country spent the better part of the day queuing at this one particular shop obeying strict instructions from the head teacher to purchase  school uniforms from no other shop.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/JmtQ1Ia-JFI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/JmtQ1Ia-JFI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/JmtQ1Ia-JFI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 5,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "JmtQ1Ia-JFI"
+    }
+   },
+   "contentDetails": {
+    "videoId": "JmtQ1Ia-JFI"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/F31Ekucb-C6Y5sm9mmG3tL3YCxk\"",
+   "id": "UU9UT-h19QKfJZzIFvAV9d-IZSpXHkevHr",
+   "snippet": {
+    "publishedAt": "2015-02-09T17:41:04.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "Buses Operating In Parts Of Nairobi CBD To Fully Effect Cashless Payment On Tuesday",
+    "description": "Buses operating from the KENCOM, G.P.O and Ambasadeur stages within the central business district are on Tuesday expected to fully effect the cashless system of payment. Hundreds of commuters were busy took taking up the cards to beat Tuesday's deadline. Our reporter Abby Kahuthia visited the terminals and filed this report.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/nb4KNyK1vv0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/nb4KNyK1vv0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/nb4KNyK1vv0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 6,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "nb4KNyK1vv0"
+    }
+   },
+   "contentDetails": {
+    "videoId": "nb4KNyK1vv0"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/CnYr0LbxP-I-QPPZYHhg2ejPAqk\"",
+   "id": "UU9UT-h19QKfJ97inwaQ8aWPMvMngXDDrw",
+   "snippet": {
+    "publishedAt": "2015-02-09T17:38:14.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "Tough-Talking National Assembly Speaker Sounds Warning To Errant MPs",
+    "description": "Ahead of Monday's reconvening of the national assembly from a two-month recess, house speaker Justin Muturi has warned that he will crack the whip on errant MPs, saying he will not allow parliament to descend into a boxing arena again. the speaker cautioned MPs  that they have a responsibility to redeem parliament's image, which was greatly eroded late last year during the chaotic debate and enactment of the security laws act, at a special sitting that was marred by fist fights. The powers and privileges committee chaired by the speaker is expected to sit and deliberate on the matter before a report can be presented to the whole house.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/9HFn4X-e_-g/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/9HFn4X-e_-g/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/9HFn4X-e_-g/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 7,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "9HFn4X-e_-g"
+    }
+   },
+   "contentDetails": {
+    "videoId": "9HFn4X-e_-g"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/cAeZRe_WgSdwzhcsqOmXptlWysw\"",
+   "id": "UU9UT-h19QKfJrXrMLIcWJedfXW1Hjo_VO",
+   "snippet": {
+    "publishedAt": "2015-02-09T16:46:10.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "Kizaazaa Cha Waalimu: Licha Ya Mbinu Mbadala Kusakwa, Hali Imesalia Kuwa Mbaya Wajir",
+    "description": "Serikali, wizara ya elimu na tume ya kuwaajiri walimu TSC zimejipata kwenye njia panda baada ya walimu wapatao 1,089 kudinda kurejea maeneo ya kaskazini mwa Kenya kwa zaidi ya wiki tano sasa huku wakipigwa jeki na miungano yao KNUT na KUPPET. Viongozi wa kisiasa nao wameingiza siasa kwenye suala hili na kuchangia kukwama kwa maafikiano. Anders Ihachi amerejea kutoka Wajir Na anasimulia kilio cha jamii ya kule, wazazi, walimu wenyeji na wanafunzi kwenye taswira inayotilia shaka haki ya elimu kwa wote ilivyo wito wa katiba ya Kenya.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/YrSt8imAytw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/YrSt8imAytw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/YrSt8imAytw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 8,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "YrSt8imAytw"
+    }
+   },
+   "contentDetails": {
+    "videoId": "YrSt8imAytw"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/hJmzbO-w7vd7cRSGOZmjipkoGAY\"",
+   "id": "UU9UT-h19QKfJ0bY3nflY8mi6yUhFZXds8",
+   "snippet": {
+    "publishedAt": "2015-02-09T16:35:52.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "Wabunge Watoa Makataa Ya Saa 72 Uchunguzi Wa Mauaji Ya Mbunge Wa Kabete Ukamilishwe",
+    "description": "Kamati ya usalama sasa imetoa ilani ya saa 72 ya kukamilishwa kwa uchunguzi wa kifo cha mbunge wa Kabete George Muchai,walinzi wake wawili na dereva wake. Kamati hiyo imemtaka waziri wa usalama wa ndani Joseph Ole Nkaiserry kuhakikisha kwamba uchunguzi huo umekamilika la sivyo watachukua Hatua.Kamati hiyo vile vile imetoa ilani kwa kampuni ya Safaricom kuhakisha kwamba mradi wa shillingi bilioni kumi na nne wa kuweka kamera za Cctv jijini Nairobi umeanza kufanya kazi mara Moja.Hayo yanajiri huku ikidaiwa kwamba kamera za cctv hazikunasa kisa cha kupigwa risasi kwa Muchai na wenzake.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/VyxBe53hqUA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/VyxBe53hqUA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/VyxBe53hqUA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 9,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "VyxBe53hqUA"
+    }
+   },
+   "contentDetails": {
+    "videoId": "VyxBe53hqUA"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/HXPAs3wo-gMs45DbBFgyLYsDlQs\"",
+   "id": "UU9UT-h19QKfKXF58faEJ_8Whq1r2Ja0o_",
+   "snippet": {
+    "publishedAt": "2015-02-09T16:29:19.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "Wazazi Walalamikia Mpango Unaotumiwa Na Shule Kununua Sare ,Waripoti Kutozwa Sh 25,000",
+    "description": "Wazazi wa wanafunzi kutoka maeneo kadhaa humu nchini walijimwaya kwenye maduka ya sare za shule kwa wanao wanaojiunga na kidato cha kwanza.Cha kushangaza ni kuwa wazazi hao wanasema kuwa wameagizwa kutembelea duka moja tu katika hali ambayo imewakera wengi wao haswa wanaotoka maeneo ya mbali kuja Nairobi.Hii ni licha ya agizo la waziri Kaimenyi kuwa mpango wa kuamua maduka ya kunua sare ufanywe kupitia zabuni iliyo na uwazi.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/LMydrwbl0-U/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/LMydrwbl0-U/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/LMydrwbl0-U/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 10,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "LMydrwbl0-U"
+    }
+   },
+   "contentDetails": {
+    "videoId": "LMydrwbl0-U"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/-Jah_ouSBsJA9MzFePvWRpktiVE\"",
+   "id": "UU9UT-h19QKfJxyPTknKdWAQN8maaZo4Dw",
+   "snippet": {
+    "publishedAt": "2015-02-09T16:07:09.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "Mshukiwa Aliyewalaghai Watu Mamilioni Akijifanya Msaidizi Wa Rais Kenyatta Kizimbani",
+    "description": "Jamaa mmoja aliyejifanya kuwa msaidizi wa rais Uhuru Kenyatta amefikishwa mahakamani ambapo alikabiliwa na mashtaka ya kupanga njama ya ulaghai pamoja na kughushi stakabadhi.David Jomo Muigai kwa jina lingine Jomo Kenyatta Muigai anadaiwa kujifanya kuwa msaidizi wa rais Jomo Gecaga ili kuepuka uchunguzi kuhusu kesi ya ulaghai wa ardhi wa mamilioni ya pesa.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/X_HL6Ll8BHw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/X_HL6Ll8BHw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/X_HL6Ll8BHw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 11,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "X_HL6Ll8BHw"
+    }
+   },
+   "contentDetails": {
+    "videoId": "X_HL6Ll8BHw"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/2JdE64c-FBU_hgs9azYJ9qluM4k\"",
+   "id": "UU9UT-h19QKfLGQm_xYGZ8a3WZFPyTJZRI",
+   "snippet": {
+    "publishedAt": "2015-02-09T15:45:49.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "Wakaazi Wa Murang'a Wala Matunda Mwitu Kufuatia Njaa Kali",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/dCs5fjlTOYg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/dCs5fjlTOYg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/dCs5fjlTOYg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 12,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "dCs5fjlTOYg"
+    }
+   },
+   "contentDetails": {
+    "videoId": "dCs5fjlTOYg"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/Hvs36FjpTBzFuyAcPeB8-nMD-y0\"",
+   "id": "UU9UT-h19QKfIUeeRZesD7JCx7ULLstGhE",
+   "snippet": {
+    "publishedAt": "2015-02-09T15:45:19.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "Maafisa Wa Elimu Mwingi Walalamika Ongezeko La Wabakaji Eneo Hilo",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/eZcB9NDBi9M/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/eZcB9NDBi9M/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/eZcB9NDBi9M/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 13,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "eZcB9NDBi9M"
+    }
+   },
+   "contentDetails": {
+    "videoId": "eZcB9NDBi9M"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/ZBkR69S2OdrgOuzDmyNVrx73MDM\"",
+   "id": "UU9UT-h19QKfKMfhjbVEhrHgjpDV7yu93O",
+   "snippet": {
+    "publishedAt": "2015-02-09T15:44:44.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "Vijana Mjini Eldoret Wakutanishwa Kutambua Vipawa",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/16Xp-7w9N7c/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/16Xp-7w9N7c/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/16Xp-7w9N7c/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 14,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "16Xp-7w9N7c"
+    }
+   },
+   "contentDetails": {
+    "videoId": "16Xp-7w9N7c"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/CauY_jT9gfFPxvY9frGLESHzqMM\"",
+   "id": "UU9UT-h19QKfINRfIFtPqGtgHmQCIBVMPh",
+   "snippet": {
+    "publishedAt": "2015-02-09T12:09:01.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "ODM NAKURU DEFECTIONS",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/HcrLKBADNBo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/HcrLKBADNBo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/HcrLKBADNBo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 15,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "HcrLKBADNBo"
+    }
+   },
+   "contentDetails": {
+    "videoId": "HcrLKBADNBo"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/9p14jKGSjgUb_YwN1Z25qHP0YXQ\"",
+   "id": "UU9UT-h19QKfI1SHEbhuVxaK2a2PnWPgeL",
+   "snippet": {
+    "publishedAt": "2015-02-09T11:56:54.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "Motion To Impeach Machakos Governor Alfred Mutua To Be Tabled",
+    "description": "Motion To Impeach Machakos Governor Alfred Mutua To Be Tabled\nA motion seeking to impeach Machakos county Governor Dr Alfred Mutua is set to be tabled in the Machakos county assembly. The motion by Ndalani MCA Stephen Muthuka alleges corruption and victimization of employees as grounds.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/0hgkRcSHXy8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/0hgkRcSHXy8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/0hgkRcSHXy8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 16,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "0hgkRcSHXy8"
+    }
+   },
+   "contentDetails": {
+    "videoId": "0hgkRcSHXy8"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/E8WNiDr7CcTMUsWEyHe3VwbCQSc\"",
+   "id": "UU9UT-h19QKfI8HfK-h3f50bx5B7iKGNIt",
+   "snippet": {
+    "publishedAt": "2015-02-09T11:08:04.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "Parliamentary Committee On Security Seeking Answers Over Murder Of Kabete MP",
+    "description": "Parliamentary Committee On Security Seeking Answers Over Murder Of Kabete MP\nThe parliamentary committee on security is now demanding answers from the government over the murder of Kabete MP George Muchai. The chairman of the committee Asman Kamama says officers manning the county government's CCTV should have notified the rapid response unit to help track the vehicle. Kamama questioned why officer guarding Nyayo house which is only 100 meters away did not respond to the shooting.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-hU2fSS6XBs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-hU2fSS6XBs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-hU2fSS6XBs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 17,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "-hU2fSS6XBs"
+    }
+   },
+   "contentDetails": {
+    "videoId": "-hU2fSS6XBs"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/xH9uEmGjJ6BfssWXBl3HHNgVW5s\"",
+   "id": "UU9UT-h19QKfL_V1zY6ZeVH8jo61z4gACH",
+   "snippet": {
+    "publishedAt": "2015-02-09T11:00:32.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "Murang'a Residents Resort To Eating Wild Fruits As Drought Persists",
+    "description": "Murang'a Residents Resort To Eating Wild Fruits As Drought Persists\nResidents of Muranga county are urging the county government of Muranga to provide relief food to people living parts of the county which has been ravaged by drought. The residents say that they have been forced to walk for many kilometers in search of water while others have been reduced to eating wild fruits after the rains failed.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/1Qao2gkSpGQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/1Qao2gkSpGQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/1Qao2gkSpGQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 18,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "1Qao2gkSpGQ"
+    }
+   },
+   "contentDetails": {
+    "videoId": "1Qao2gkSpGQ"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/ticyVFaDmtfU4rD0hJZklk8YuC4\"",
+   "id": "UU9UT-h19QKfI8gDp_lRtr7tcUQAjWHn5-",
+   "snippet": {
+    "publishedAt": "2015-02-09T10:47:46.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "IMPACT OF LOW FUEL",
+    "description": "Deloitte Report Indicates EA Will Not Significantly Benefit From Reduced Oil Prices\nEast African countries will not significantly benefit from the falling global oil prices, a factor that has been attributed to inadequate storage facilities. This is according to a research by Deloitte East Africa. The findings titled 'falling oil prices, winners and losers', the aviation industry is expected to be a major beneficiary of the drop in global oil prices with their operating costs expected to drop by up to 13 percent.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/LpzeeFC3cjM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/LpzeeFC3cjM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/LpzeeFC3cjM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 19,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "LpzeeFC3cjM"
+    }
+   },
+   "contentDetails": {
+    "videoId": "LpzeeFC3cjM"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/NJubUs-wudt6ife1Iq35iWbCVl4\"",
+   "id": "UU9UT-h19QKfIcfHnz3393oerE_5LuHF6j",
+   "snippet": {
+    "publishedAt": "2015-02-09T10:13:48.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "Tension Still High In West Pokot After Man Was Shot Dead Along Turkwell Border",
+    "description": "Tension remains high in West Pokot after one man  was shot dead and another sustained serious gunshot wounds in separate bandit attacks along the volatile Turkwel border. In the first instance bandits attacked a motorcyclist along the Kapenguria-Lodwar highway killing him on the spot. Later in the day a motorist from Karon village was shot three times and sustained thigh injuries.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/23QVQla5vVU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/23QVQla5vVU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/23QVQla5vVU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 20,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "23QVQla5vVU"
+    }
+   },
+   "contentDetails": {
+    "videoId": "23QVQla5vVU"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/Y-AQ8ezePB-s54T86ojtgsVHMkk\"",
+   "id": "UU9UT-h19QKfLINT-POhCDl7CyrULp3LL0",
+   "snippet": {
+    "publishedAt": "2015-02-09T10:05:43.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "Property Worth Millions Destroyed In Fire At Bata Shoe Company HQs",
+    "description": "Property worth millions  of shillings wet up in smoke Sunday morning  after a fire destroyed a Bata go down at the Bata shoe company headquarters in Limuru. The cause of the fire has not yet  been established.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/itnxzlHVLZQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/itnxzlHVLZQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/itnxzlHVLZQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 21,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "itnxzlHVLZQ"
+    }
+   },
+   "contentDetails": {
+    "videoId": "itnxzlHVLZQ"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/hGJ6cdkaCCeB4c7bdW1FwJvaUUs\"",
+   "id": "UU9UT-h19QKfIP9nJ7oXmAfO_BOR9oX11C",
+   "snippet": {
+    "publishedAt": "2015-02-09T08:15:10.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "State Of The Nation: 8th February 2015",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/a5rGIIMDDCs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/a5rGIIMDDCs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/a5rGIIMDDCs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/a5rGIIMDDCs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 22,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "a5rGIIMDDCs"
+    }
+   },
+   "contentDetails": {
+    "videoId": "a5rGIIMDDCs"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/qZLV5ETwGhC7JGh_5iMOcd8PJfw\"",
+   "id": "UU9UT-h19QKfInRz9unW5Iu9d4Ratawo1Q",
+   "snippet": {
+    "publishedAt": "2015-02-08T18:38:08.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "Muchai’s Bodyguard Was To Celebrate His 27th Birthday",
+    "description": "As the country continues to mourn the late Kabete member of parliament George Muchai, the families of his three aides who were also killed in the attack, are slowly coming to terms with the loss of their breadwinners. \nSamuel Kimathi, one the MPs'  bodyguards was meant to come back home after executing his duties to celebrate his 27th birthday with his family, only to meet his untimely death. \nBina Maseno visited the family and brings their tale of agony.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/gligGp32AkI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/gligGp32AkI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/gligGp32AkI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 23,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "gligGp32AkI"
+    }
+   },
+   "contentDetails": {
+    "videoId": "gligGp32AkI"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/nR-HVCUxgKjzqCIWKFLU85GmNLc\"",
+   "id": "UU9UT-h19QKfJzQJuPHKn-y1C4cTK4yz6p",
+   "snippet": {
+    "publishedAt": "2015-02-08T18:28:53.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "Suleiman Shabhal, Ramadhan Kajembe, Join JAP",
+    "description": "Former gubernatorial aspirant for Mombasa county, Suleiman Shahbal and former MP for Changamwe Ramadhan Kajembe have ditched opposition coalition cord to join the newly formed Jubilee alliance party.\nIn justifying their defection, the two accused the CORD coalition of lacking in internal democracy.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ElcA2sOjxm4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ElcA2sOjxm4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ElcA2sOjxm4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 24,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ElcA2sOjxm4"
+    }
+   },
+   "contentDetails": {
+    "videoId": "ElcA2sOjxm4"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/gzpJlpJkSu6vJpu3Twq-nIh-0qQ\"",
+   "id": "UU9UT-h19QKfKgblFHn8UEyXcaxiKAPsZ5",
+   "snippet": {
+    "publishedAt": "2015-02-08T18:19:23.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "Over 2,000 Officers Assigned To Mps, Senators, Governors",
+    "description": "Police estimates indicate that at least 2,000 officers are currently assigned to guard VIPs across the country, including MPs, senators and governors. \nApart from providing protection, the bodyguards are supposed to be agents, passing out information to the national intelligence service, (NIS) on existing and emerging security threats.\nHowever, according to security experts, most of them are ill-trained and ill-equipped for the job, as Eric Njoka reports.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/YSBCCl1S_WA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/YSBCCl1S_WA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/YSBCCl1S_WA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 25,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "YSBCCl1S_WA"
+    }
+   },
+   "contentDetails": {
+    "videoId": "YSBCCl1S_WA"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/sgweFtti_9A-hk5cW9UbghiVYFg\"",
+   "id": "UU9UT-h19QKfIebNe53lKxEFqdgnK9szDR",
+   "snippet": {
+    "publishedAt": "2015-02-08T18:19:00.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "Highly-Trained Assassin Eliminated Kabete MP, CCTV Footage Reveals",
+    "description": "Investigators from the directorate of criminal investigations are sifting through CCTV footage handed over to them by the City County of Nairobi, to try and unmask those behind gangland - style execution of Kabete MP George Muchai on Saturday morning along Kenyatta avenue. \n sources tell K24 TV, preliminary results of the ongoing probe indicate that the assassin must have been a highly-trained professional given that they took well under 2 minutes to complete the hit-job and based on their apparent familiarity with the scene of crime. \nAs Hassan Mugambi reports, police are closing in on crucial leads collected at the scene of crime to establish who the killer of the MP, his driver and 2 bodyguards was and their motive.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/vyWLQ0Ex5ac/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/vyWLQ0Ex5ac/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/vyWLQ0Ex5ac/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 26,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "vyWLQ0Ex5ac"
+    }
+   },
+   "contentDetails": {
+    "videoId": "vyWLQ0Ex5ac"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/lYKUH9oTvdEve-n9oGQBCvvsVCs\"",
+   "id": "UU9UT-h19QKfIp68Kf86MKCD6b6rpS9D-m",
+   "snippet": {
+    "publishedAt": "2015-02-08T17:56:26.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "LifestyleK24: Interview",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/3MEvE6ylvLY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/3MEvE6ylvLY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/3MEvE6ylvLY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 27,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "3MEvE6ylvLY"
+    }
+   },
+   "contentDetails": {
+    "videoId": "3MEvE6ylvLY"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/fm9Ix95ATtANfRAWQDihjtRxPus\"",
+   "id": "UU9UT-h19QKfIZk0X3-587OTj21MmvaRw2",
+   "snippet": {
+    "publishedAt": "2015-02-08T17:54:48.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "DP Ruto: TSC Has Extended Reporting Time To Monday, Feb.9th",
+    "description": "Teachers currently on a work boycott seeking to be transferred from Northern Kenya counties over security concerns have one last chance to resume duty and avoid being replaced. \nAnnouncing this, deputy president William Ruto also asked the Kenya National Union of teachers to factor in the interests of learners in the Northern Kenya region and call off the strike. \nAs Yussuf Ibrahim reports local leaders from the region led by national assembly majority leader Aden Duale called on the teachers service commission to immediately replace the teachers if they fail to resume duty by tomorrow.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/EL0gN_AR9Vo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/EL0gN_AR9Vo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/EL0gN_AR9Vo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 28,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "EL0gN_AR9Vo"
+    }
+   },
+   "contentDetails": {
+    "videoId": "EL0gN_AR9Vo"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/wo8mJwupHM4xqfN4d6hFQKXtLDo\"",
+   "id": "UU9UT-h19QKfJaTS3ufUpWjD_ZPVCp4Yi7",
+   "snippet": {
+    "publishedAt": "2015-02-08T17:53:18.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "The Late Kabete MP May Be Laid To Rest February 13",
+    "description": "The late Kabete member of parliament George Muchai will tentatively be laid to rest on Friday, the 13th of February, with the requiem mass to be held a day before.\nThe funeral committee chairman, Kiambu senator Kimani Wamatangi however indicated that finer details to the burial arrangements were yet to agreed upon. \nIn the meantime, leaders condemned the execution of the mp and 3 of his aides and called on the government to carry out thorough and speedy investigations.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/P-q6ebk9dBY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/P-q6ebk9dBY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/P-q6ebk9dBY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 29,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "P-q6ebk9dBY"
+    }
+   },
+   "contentDetails": {
+    "videoId": "P-q6ebk9dBY"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/aXEecwQuA-SIHE0N-uUODcz08wU\"",
+   "id": "UU9UT-h19QKfJGyWl9W7USmKV7jW-u2dg3",
+   "snippet": {
+    "publishedAt": "2015-02-08T16:38:07.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "NTSA Wasema Wasafiri Kutumia Kadi GPO,Kencom na Ambassador",
+    "description": "Je umepokea kadi ya 'cashlite' itakayokuwezesha kutumia usafiri wa umma? Umesalia na siku moja kukumbatia mfumo huo wa malipo ya kadi ya usafiri wa umma.\nHalmashauri ya usafiri na usalama barabarani imesema kwamba msafiri anayetumia usafiri wa umma atalazimika kutumia kadi hiyo ili kupata nafasi katika mabasi katika vituo vikuu vya mabasi jijini Nairobi\nTagsl: NTSA Wasema Wasafiri Kutumia Kadi GPO,Kencom na Ambassador\nJe umepokea kadi ya 'cashlite' itakayokuwezesha kutumia usafiri wa umma? Umesalia na siku moja kukumbatia mfumo huo wa malipo ya kadi ya usafiri wa umma.\nHalmashauri ya usafiri na usalama barabarani imesema kwamba msafiri anayetumia usafiri wa umma atalazimika kutumia kadi hiyo ili kupata nafasi katika mabasi katika vituo vikuu vya mabasi jijini Nairobi",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/UNu1I-W3Ieo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/UNu1I-W3Ieo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/UNu1I-W3Ieo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 30,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "UNu1I-W3Ieo"
+    }
+   },
+   "contentDetails": {
+    "videoId": "UNu1I-W3Ieo"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/Y4on7bgIWeYYXvj6q4Eiu_rqENU\"",
+   "id": "UU9UT-h19QKfK-8_FqKhjJzuHc_xV4MHJw",
+   "snippet": {
+    "publishedAt": "2015-02-08T16:28:53.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "Mlinzi  Wa Muchai Auawa Katika Siku Yake Ya Kuzaliwa,Familia Zataka Majibu",
+    "description": "Huku eneo mbunge la Kabete na nchi zima ikizidi kuomboleza kifo cha mbunge George Muchai, familia za walinzi na dereva wake ambao walimiminiwa risasi na kuwaawa pamoja na mbunge huyo pia wanaendelea kuomboleza vifo vya watatu hao.\nMmoja wa mlinzi wa mheshimiwa George Muchai Samuel Kimathi mwenye umri wa miaka 27 amesemekana kuuliwa wakati ambapo alikuwa akisherekea siku yake ya kuzaliwa.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Qj25miaaDC4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Qj25miaaDC4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Qj25miaaDC4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 31,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Qj25miaaDC4"
+    }
+   },
+   "contentDetails": {
+    "videoId": "Qj25miaaDC4"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/UDV3LqG-fupsGPGA8xPSobtWgs4\"",
+   "id": "UU9UT-h19QKfIde6rJJKsga0LNtzteHe1M",
+   "snippet": {
+    "publishedAt": "2015-02-08T16:26:49.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "Ibada Ya Kumuomboleza George Muchai Yafanywa Nyumbani Kwake Kamulu",
+    "description": "Mamia ya watu wameendelea kumomboleza mbunge wa Kabtee George Muchai huku semi za kutaka haki zikichacha. Jamaa ndungu na marafiki wa mwendazake mheshimiwa George Muchai walifurika kwake nyumbani Kamulu kuomboleza pamoja.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/s92OO1-ASlk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/s92OO1-ASlk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/s92OO1-ASlk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 32,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "s92OO1-ASlk"
+    }
+   },
+   "contentDetails": {
+    "videoId": "s92OO1-ASlk"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/Mim_-w4oUpkAFTrmqTBLpL7G2wU\"",
+   "id": "UU9UT-h19QKfK9-aL04qy98FdlRf4petZ9",
+   "snippet": {
+    "publishedAt": "2015-02-08T16:01:38.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "Ruto Aonya Walimu Warudi Wajir,Mandera Na Garissa Wiki Ijayo Au Wapoteze Kazi",
+    "description": "Serikali sasa imetoa makataa ya mwisho kwa walimu waliosusia kurejea kaskazini mwa Kenya kwamba iwapo watapuuza agizo la mwisho la wao kurejea shuleni kesho asubuhi wafutwe kazi.\nNaibu rais William Ruto pamoja na viongozi wa kaskazini mwa kenya wamewataka walimu hao kuwa wazalendo na kufahamu fika kuwa haki yao haizidi haki ya wanafunzi ambao kwa sasa masomo kwao yamelemezwa.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/NTjotGOg5g8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/NTjotGOg5g8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/NTjotGOg5g8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 33,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "NTjotGOg5g8"
+    }
+   },
+   "contentDetails": {
+    "videoId": "NTjotGOg5g8"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/Kax0gk2A2Lof32wtUZJTV0wsRQc\"",
+   "id": "UU9UT-h19QKfLtaQ2bxfGmAR1E3kIQKa29",
+   "snippet": {
+    "publishedAt": "2015-02-08T15:57:33.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "Ukoko Wa Jamii : Matambiko Ya Kutakasa Watu Pokot",
+    "description": "Unapohisi unahitaji kujitakasa wewe hufanyaje? Kuna wale wanaoamua kusali, na wengine kufunga kwa siku kadhaa.\nLakini kwa jamii ya Pokot, wao huona ni vyema kufanya tambiko la kiaina yake, ambapo wahusika wanaotaka kutakaswa kupewa fursa ya hiyo, baada ya kufanyiwa tambiko hilo.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/jf8mJBzQL90/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/jf8mJBzQL90/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/jf8mJBzQL90/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 34,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "jf8mJBzQL90"
+    }
+   },
+   "contentDetails": {
+    "videoId": "jf8mJBzQL90"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/slA0WrLeDY4G7KasAW4HgXY08rk\"",
+   "id": "UU9UT-h19QKfKBXmV0aUpzXG8eaOoGcFK4",
+   "snippet": {
+    "publishedAt": "2015-02-08T13:29:20.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "K24 Alfajiri   The War Against FGM",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/MMqBb4_iSEo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/MMqBb4_iSEo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/MMqBb4_iSEo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 35,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "MMqBb4_iSEo"
+    }
+   },
+   "contentDetails": {
+    "videoId": "MMqBb4_iSEo"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/OY51lqhuZK136D5XbFeo1QMZu4Y\"",
+   "id": "UU9UT-h19QKfJoDbFsS184ukafJbrv4qOV",
+   "snippet": {
+    "publishedAt": "2015-02-07T18:13:43.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "Fallen MP Was Also A Renowned Trade Unionist, College Lecturer",
+    "description": "A first time MP but a trade union activist  whose career spanned 20 years.Kabete M P George Muchai  is a man whose political and trade union career  defined a quiet life but one dogged with controversy.\nConstituents,MPs and friends have described him as a gentleman  and  a performer  whose death came as a shock and added to Kenya's sticky question  on unresolved  mysterious deaths.\nHis long activism career reveals a man  determined to scale to greater heights.\nApollo Kamau reports on a man who made a short stint  in the national assembly but who fought in war fronts  unknown to many.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-JoXmO73Anw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-JoXmO73Anw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-JoXmO73Anw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 36,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "-JoXmO73Anw"
+    }
+   },
+   "contentDetails": {
+    "videoId": "-JoXmO73Anw"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/HbBcKE9aQc-mlrwta3turjESCLs\"",
+   "id": "UU9UT-h19QKfIsvhVaFwr17QiHtIlIzMTj",
+   "snippet": {
+    "publishedAt": "2015-02-07T17:57:42.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "Kenyans, Leaders Condole With Fallen Kabete MP, Aides' Families",
+    "description": "The chilling murder of Kabete member of parliament George Muchai Saturday morning attracted a wave of condemnation from political leaders and Kenyans alike who condoled with Muchai's family and those of his driver and bodyguards.\nPresident Uhuru Kenyatta, Cord leader Raila Odinga, COTU secretary- general Francis Atwoli and national assembly speaker Justin Muturi were among leaders who condoled with the 4 bereaved families.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/OKskCRDuf9A/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/OKskCRDuf9A/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/OKskCRDuf9A/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 37,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "OKskCRDuf9A"
+    }
+   },
+   "contentDetails": {
+    "videoId": "OKskCRDuf9A"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/o89ujh9V4ZBZk5h7T_voPb80IIE\"",
+   "id": "UU9UT-h19QKfKLkL_9_LRX_7M57HnpURwu",
+   "snippet": {
+    "publishedAt": "2015-02-07T17:56:21.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "Police Launch Investigations Into The Murder Of The Kabete MP, 3 Aides",
+    "description": "President Uhuru Kenyatta has directed the directorate of criminal investigations to hasten a probe into the death of the Kabete member of parliament, his driver and two body guards who were murdered in cold blood this morning.\nThis as it emerged that detectives will be pegging their probe on cctv footage of the 3 am incident, which was captured on cctv cameras mounted along Kenyatta Avenue.\nThe slain MP had on numerous occasions claimed that his life was in danger, with little or no action allegedly being taken.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/vhyPzPDR7H0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/vhyPzPDR7H0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/vhyPzPDR7H0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 38,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "vhyPzPDR7H0"
+    }
+   },
+   "contentDetails": {
+    "videoId": "vhyPzPDR7H0"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/s4XehXrb6h-DhDeI-q922x-y94c\"",
+   "id": "UU9UT-h19QKfINVi_pySnP5Vs4sC-0uZI1",
+   "snippet": {
+    "publishedAt": "2015-02-07T17:55:53.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "George Muchai Shot Dead By Unknown Assailants In Nairobi CBD Saturday Morning",
+    "description": "Kabete member of parliament George Muchai was on Saturday morning killed in a cold- blooded  murder that also claimed the lives of his two body guards and a driver.\nThe four were killed after suspected assassins shot them at point blank before fleeing  the scene, near Nyayo House at the Kenyatta avenue Uhuruhighway round-about\nMuchai's wife and daughter who were riding in a different vehicle however escaped unhurt, with police having launched investigations into the incident.\n Joy Kiruki  retraces the journey leading to Muchai's death through eye witness accounts.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/KEva-PBgTg8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/KEva-PBgTg8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/KEva-PBgTg8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 39,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "KEva-PBgTg8"
+    }
+   },
+   "contentDetails": {
+    "videoId": "KEva-PBgTg8"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/EsMdF1URjXJLwAO9Zb1M4FomUHg\"",
+   "id": "UU9UT-h19QKfJLKzIGDZOoFqFfBLQNywGC",
+   "snippet": {
+    "publishedAt": "2015-02-07T17:55:25.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "World Bank Report Shows Mombasa County Only Used 1% Of Budget On Development",
+    "description": "Just days after the World Bank released a report on the development record of all 47 counties, residents of poor performing counties are raising hue and cry, with the leadership of affected counties rubbishing the report.\nIn Mombasa county, residents are angered by revelations that the county government  utilized only 1% of its budget on development and have accused their leaders of misplaced priorities",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/fMssflGa7b0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/fMssflGa7b0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/fMssflGa7b0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 40,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "fMssflGa7b0"
+    }
+   },
+   "contentDetails": {
+    "videoId": "fMssflGa7b0"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/-d5ekNLwT-LyY-ZoqOifCpU5MNM\"",
+   "id": "UU9UT-h19QKfIFa9IWKi2Nrv2DNbdQbeKD",
+   "snippet": {
+    "publishedAt": "2015-02-07T17:55:04.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "More And More Women Changing Their Lifestyles To Attract Suitors",
+    "description": "You may have seen and heard of many women who pass off as independent.This class of women has well paying jobs, is wealthy and has the freedom and liberty to do what they want, when they want and how they want.\nBut all this comes with a price - such women are shunned and declared impossible to marry with men fearing their intimidating demeanuor.\nMany of these independent women are however increasingly willing to tone down on their lifestyles  in order to attract suitors.\n Abby Kahuthia interrogates this growing the trend on our segment, lifestyle K24.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/X3vTFzCVKTw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/X3vTFzCVKTw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/X3vTFzCVKTw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 41,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "X3vTFzCVKTw"
+    }
+   },
+   "contentDetails": {
+    "videoId": "X3vTFzCVKTw"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/J6PBnulfTv-UUeS1J2Urg0KIKow\"",
+   "id": "UU9UT-h19QKfIpQ4nGpe7n7xv-QoiNVcj8",
+   "snippet": {
+    "publishedAt": "2015-02-07T17:54:49.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "DP Ruto Orders Education CS To Release School Fees Guidelines By Next Week",
+    "description": "Deputy president William Ruto has weighed in on the raging debate over exorbitant fees levied by some secondary schools, and directed the ministry of education to issue a fees guideline next week.\nRuto has also ordered investigations into institutions that have been violating the fees guidelines issued in 2013 and called on the public to furnish the government with evidence to enable the prosecution of head teachers found to be culpable.\nRuto's directive comes in the wake of a public outcry over the high fees charged by some secondary school heads prompting fears that bright but needy children might be locked out of school as a result.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/C5a2FrDI7hg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/C5a2FrDI7hg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/C5a2FrDI7hg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 42,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "C5a2FrDI7hg"
+    }
+   },
+   "contentDetails": {
+    "videoId": "C5a2FrDI7hg"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/-W1s9wKnUtpAoV3rPnfATVi1clU\"",
+   "id": "UU9UT-h19QKfKqizqcJQBYCoHPpkeXCIET",
+   "snippet": {
+    "publishedAt": "2015-02-07T16:49:22.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "Pandashuka Za George Muchai  Katika Kutetea Wafanyikazi Na Siasa",
+    "description": "Wengi waliomjua marehemu George Muchai aliyekuwa mbunge wa kabete wanamfahamu kwa msukumo wake kwa  haki za wqafanyikazi.Hii hapa taswira kamili ya Muchai usiyemjua",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/6ocAXQGRM4E/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/6ocAXQGRM4E/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/6ocAXQGRM4E/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 43,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "6ocAXQGRM4E"
+    }
+   },
+   "contentDetails": {
+    "videoId": "6ocAXQGRM4E"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/VOLT0ybkuwGCu-UFrbpgOoUd7K8\"",
+   "id": "UU9UT-h19QKfJLRaFXosZOMuY3-YMXhGLU",
+   "snippet": {
+    "publishedAt": "2015-02-07T16:38:08.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "Ni Siasa, Utetezi Wa Wafanyikazi Au Mapenzi Yaliyomuangamiza George Muchai?",
+    "description": "Rais Uhuru Kenyatta  ameagiza idara ya polisi kutumia rasli mali zote zilizoko kuhakikisha kwamba majangili waliopanga njama na kumuuwa mbunge wa Kabete George Muchai wanatiwa mbaroni haraka iwezekanavyo.\nKwa upande wake polisi kupitia kitengo maalum cha uhalifi wa jinai wameanzosha uchunguzi huku wakilenga picha zilizonaswa na kamera za cctv na pamoja na kutaka kujua kilichokuwa kwenye mkoba wa mbunge huo ambao pia uliibwa na wauwaji hao.\nJe, ni nani haswa aliye mwandama na hata kumuuwa mbunge huyo?",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/8DgmWlGIA-Y/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/8DgmWlGIA-Y/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/8DgmWlGIA-Y/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 44,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "8DgmWlGIA-Y"
+    }
+   },
+   "contentDetails": {
+    "videoId": "8DgmWlGIA-Y"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/my8QqxzCZ7KVcNQR32tlIdt_2Ik\"",
+   "id": "UU9UT-h19QKfKJmjcvJ_OMcEyYl1m-0IMO",
+   "snippet": {
+    "publishedAt": "2015-02-07T16:36:04.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "George Muchai Wa Kabete, Dereva Na Walinzi Wake 2 Wapigwa Risasi, Nairobi",
+    "description": "Mbunge wa Kabete George Muchai ,walinzi wake wawili na dereva walipigwa risasi na kuuawa leo alfajiri katikati mwa jiji la Nairobi.\nWanne hao walipigwa risasi kichwani na kifuani na mshambulizi aliyejihami kwa bunduki aina ya AK47 na kujifunika uso.\nBastola za walinzi wake na mikoba miwili iliibwa wakati wa shambulizi hilo.\nFamilia ya Muchai iliyokuwa kwenye gari jingine tofauti iliponea chupu chupu baada ya dereva kuondoka katika eneo la mkasa kwa haraka.\nHakuna mshukiwa yeyote aliyetiwa nguvuni kufikia sasa.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/_FljqjLJC6g/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/_FljqjLJC6g/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/_FljqjLJC6g/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 45,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "_FljqjLJC6g"
+    }
+   },
+   "contentDetails": {
+    "videoId": "_FljqjLJC6g"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/ypYrdI_kV-jeO8gyE9AD6sxNGqI\"",
+   "id": "UU9UT-h19QKfIJhTOf_Ngcv5z2iemwRode",
+   "snippet": {
+    "publishedAt": "2015-02-07T15:59:14.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "Familia, Viongozi, Wabunge Na Wananchi Wa Kabete Waomboleza",
+    "description": "Mauaji ya mbunge wa Kabete George Muchai, kimewashtua wengi, hasa ikizingatiwa kwamba aliuawa katikati mwa jiji la Nairobi.\nViongozi kadhaa akiwemo rais Uhuru Kenyatta, na naibu wake, wametoa risala za rambirambi kwa familia.\nAidha rais Uhuru ameagiza uchunguzi kufanywa na wote waliotekeleza hayo kufichuliwa.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4s4gSTanL8s/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4s4gSTanL8s/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4s4gSTanL8s/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 46,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "4s4gSTanL8s"
+    }
+   },
+   "contentDetails": {
+    "videoId": "4s4gSTanL8s"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/04gv2_d4nIE2z_k15ttyfSDdV08\"",
+   "id": "UU9UT-h19QKfIb3XN4ImdbvtUy4KFbTYc4",
+   "snippet": {
+    "publishedAt": "2015-02-07T15:35:41.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "Ripoti Ya Shirika La Fedha Duniani Yadokeza Kaunti Ya Mombasa Iko Nyuma Kimaendeleo",
+    "description": "Kaunti ya Mombasa ambayo uongozi wake umejivunia kwa kuwa kaunti nambari 001, kaunti hiyo sasa imeorodheshwa kama inayoshikilia mkia katika maendeleo ikitumia asilimia moja tu ya pesa zilizotolewa katika bajeti wa mwaka mwaka 2013/2014.\nHaya ni kwa mujibu wa ripoti iliyotolewa na benki ya dunia, ambayo imepokelewa kwa hisia tofauti.\nSerikali ya kaunti ya Mombasa nayo imenyoosha kidole cha lawama kwa serikali kuu ikidai kuwa fedha inayotengewa ni kidogo mno.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/c1ynON8IDUA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/c1ynON8IDUA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/c1ynON8IDUA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 47,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "c1ynON8IDUA"
+    }
+   },
+   "contentDetails": {
+    "videoId": "c1ynON8IDUA"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/ExduReFtDellDjfLiK3F4s5W2bE\"",
+   "id": "UU9UT-h19QKfLnOt8VhGtImATXycHT4Jx8",
+   "snippet": {
+    "publishedAt": "2015-02-07T14:49:53.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "Next on mishoni",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/2BUPnYhYWHk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/2BUPnYhYWHk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/2BUPnYhYWHk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 48,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "2BUPnYhYWHk"
+    }
+   },
+   "contentDetails": {
+    "videoId": "2BUPnYhYWHk"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"4FSIjSQU83ZJMYAO0IqRYMvZX98/tgJbue9wjDvd9-ZAGOI80f6YFBI\"",
+   "id": "UU9UT-h19QKfIgeTOKzO7dacHCOgsEMDCV",
+   "snippet": {
+    "publishedAt": "2015-02-07T09:01:52.000Z",
+    "channelId": "UCt3SE-Mvs3WwP7UW-PiFdqQ",
+    "title": "Faraja: Childhood Cancers: Kevin Ombati's Battle With Leukemia",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/C-H5EdA_fGA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/C-H5EdA_fGA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/C-H5EdA_fGA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "K24TV",
+    "playlistId": "UUt3SE-Mvs3WwP7UW-PiFdqQ",
+    "position": 49,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "C-H5EdA_fGA"
+    }
+   },
+   "contentDetails": {
+    "videoId": "C-H5EdA_fGA"
+   }
+  }
+ ]
+}
