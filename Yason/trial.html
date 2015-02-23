@@ -1,0 +1,32 @@
+<HTML>
+   <HEAD>
+   <TITLE>
+   Iteration Two
+   </TITLE>
+   <SCRIPT>
+   function makeArray() {
+        var myArray = new Array(4);
+        myArray[0] = "A";
+        myArray[1] = "B";
+        myArray[2] = "C";
+        myArray[3] = "D";
+        return myArray;
+   }
+   function showArray(theArray){
+        var quote = "";
+        for (var i = 0; i < theArray.length; i++){
+            quote += theArray[i] + " ";
+        }
+        return quote;    
+   }
+   </SCRIPT>
+   </HEAD>
+   <BODY>
+   <H1>
+   <SCRIPT>
+      var x = makeArray();
+      document.write(showArray(x));
+   </SCRIPT>
+   </H1>
+   </BODY>
+</HTML>
