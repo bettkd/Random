@@ -1,8 +1,12 @@
 #! /usr/bin/python
-# -*- coding: utf-8 -*-
+
+# Run with <python 8puzzle.py -i> to input your puzzle on the commandline
+# Otherwise random puzzle is generated
+
 from heapq import heappush, heappop
 from random import shuffle
 import time
+import sys
  
 class Solver:
   def __init__(self, initial_state=None):
@@ -45,7 +49,7 @@ class Solver:
     else:
       print 'Solution could not be found!'
  
- 
+
 class State:
   def __init__(self, values, moves=0, parent=None):
     self.values = values
@@ -53,6 +57,7 @@ class State:
     self.parent = parent
     self.goal = range(1, 9)
   
+  #Move Up, Right, Left or Down
   def possible_moves(self, moves):
     i = self.values.index(0)
     if i in [3, 4, 5, 6, 7, 8]:
@@ -72,6 +77,7 @@ class State:
       new_board[i], new_board[i + 3] = new_board[i + 3], new_board[i]
       yield State(new_board, moves, self)
  
+  #A Star Search = Heuristic + Cost (Manhattan heuristic)
   def score(self):
     return self._h() + self._g()
  
@@ -119,9 +125,19 @@ class PriorityQueue:
   def __len__(self):
     return len(self.pq)
  
- 
-puzzle = range(9)
-shuffle(puzzle)
-#puzzle = [1, 7, 4, 6, 8, 3, 2, 5, 0]
-solver = Solver(puzzle)
-solver.solve()
+# Option -i alows interactive input
+def main(argv):
+  if len(argv) == 1:
+    puzzle = range(9)
+    shuffle(puzzle)
+  elif argv[1] == '-i':
+    print 'Enter the puzzle sepatated by space:'
+    str_arr = raw_input().split(' ') #will take in a string of numbers separated by a space
+    puzzle = [int(num) for num in str_arr]
+  
+  #
+  solver = Solver(puzzle)
+  solver.solve()
+
+if __name__ == '__main__':
+  main(sys.argv)
