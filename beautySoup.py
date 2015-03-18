@@ -1,3 +1,4 @@
+#Crawls and extracts data from a webpage
 from urllib import urlopen 
 from bs4 import BeautifulSoup
 import mechanize
@@ -14,8 +15,8 @@ for line in text:
 	if '<' in line:
 		nick = re.split('[<>]', line)[1]
 		post = re.split('[<>]', line)[2]
-		timestamp = post[-9:]
-		comment = post[:-9]
+		timestamp = post[-10:]
+		comment = post[:-10]
 		print nick, "====", comment, "-----", timestamp
 
 #print soup
