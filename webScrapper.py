@@ -17,16 +17,31 @@ def readSourceCode():
 	except Exception, e:
 		print str(e)
 
-def scrapLinks(sourceCode):
+def pullLinks(sourceCode, exclude=None, include=None): # Exclude request overrides include
 	try:
 		links = re.findall(r'<a href="(.*?)">',sourceCode)
-		return links
+		if exclude:
+			xlinks = []
+			for link in links:
+				if link not in exclude:
+					xlinks.append(link)
+			return xlinks
+		elif include:
+			ilinks = []
+			for link in links:
+				if link in include:
+					ilinks.append(link)
+			return ilinks
+		else:
+			return links
 	except Exception, e:
 		print str(e)
 
 def main():
-	for x in scrapLinks(readSourceCode()):
-		print x
+	sourceCode = readSourceCode()
+	links = pullLinks(sourceCode=sourceCode) # Exclude
+	for link in links:
+		print link
 
 if __name__ == '__main__':
 	main()
