@@ -15,7 +15,7 @@ def crawl(url):
 	#print soup
 	return soup
 
-def minePosts(soup, MAX=None):
+def scrapPosts(soup, MAX=None):
 	print ("Mining Posts...")
 	text = (soup.get_text()).encode('utf-8').split('\n')
 	data = []
@@ -32,7 +32,7 @@ def minePosts(soup, MAX=None):
 	else:
 		return data[:MAX]
 
-def mineURLs(soup, MAX=None):
+def scrapURLs(soup, MAX=None):
 	print ("Mining URLs...")
 	text1 = soup.findAll('a', href=True)
 	#text = (soup.get_text()).encode('utf-8').split('\n')
@@ -49,11 +49,11 @@ def mineURLs(soup, MAX=None):
 
 def main():
     soup =  crawl('http://logs.nodejs.org/node.js/index')
-    #data = minePosts(soup)
-    data = mineURLs(soup, 5)
+    #data = scrapPosts(soup)
+    data = scrapURLs(soup, 5)
 
     soup1 = crawl(data[1][0])
-    data1 = minePosts(soup1, MAX=5)
+    data1 = scrapPosts(soup1, MAX=5)
     #print data
     print "DATA FOR: "+data[1][1]
     for x in data1:
