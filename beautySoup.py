@@ -12,6 +12,7 @@ def crawl(url):
 	data = br.open(webpage).get_data()
 	soup = BeautifulSoup(data)
 	soup.prettify()
+	#print soup
 	return soup
 
 def minePosts(soup, MAX=None):
@@ -20,8 +21,9 @@ def minePosts(soup, MAX=None):
 	data = []
 	for line in text:
 		if '<' in line:
-			nick = re.split('[<>]', line)[1]
-			post = re.split('[<>]', line)[2]
+			temp = re.split('[<>]', line)
+			nick = temp[1]
+			post = temp[2]
 			timestamp = post[-10:]
 			comment = post[:-10]
 			data.append(nick+"===="+comment+"-----"+timestamp)
