@@ -50,7 +50,7 @@ def mineURLs(soup, MAX=None):
 def main():
     soup =  crawl('http://logs.nodejs.org/node.js/index')
     #data = minePosts(soup)
-    data = mineURLs(soup)
+    data = mineURLs(soup, 5)
 
     soup1 = crawl(data[1][0])
     data1 = minePosts(soup1, MAX=5)
