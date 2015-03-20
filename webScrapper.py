@@ -17,9 +17,9 @@ def readSourceCode():
 	except Exception, e:
 		print str(e)
 
-def pullLinks(sourceCode, exclude=None, include=None): # Exclude request overrides include
+def pullItems(sourceCode, exclude=None, include=None, regex=""): # Exclude request overrides include
 	try:
-		links = re.findall(r'<a href="(.*?)">',sourceCode)
+		links = re.findall(r'%s'%regex, sourceCode)
 		if exclude:
 			xlinks = []
 			for link in links:
@@ -37,9 +37,14 @@ def pullLinks(sourceCode, exclude=None, include=None): # Exclude request overrid
 	except Exception, e:
 		print str(e)
 
+def pullLinks(sourceCode, exclude=None, include=None):
+	regex = '<a href="(.*?)">'
+	print exclude
+	return pullItems(sourceCode=sourceCode, exclude=exclude, include=include, regex=regex)
+
 def main():
 	sourceCode = readSourceCode()
-	links = pullLinks(sourceCode=sourceCode) # Exclude
+	links = pullLinks(sourceCode=sourceCode)
 	for link in links:
 		print link
 
