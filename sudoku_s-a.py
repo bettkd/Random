@@ -1,3 +1,4 @@
+# Dominic Bett: Machine Intelligence class
 # solve sudoku puzzle by simulated annealing
 # clone- https://github.com/erichowens/
 import sys
